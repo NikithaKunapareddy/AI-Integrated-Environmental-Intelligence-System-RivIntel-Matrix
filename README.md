@@ -1,5 +1,5 @@
-# 🌊 AI-Integrated Environmental Intelligence System
-# 🚦 RivAI Nexus: The River Intelligence Hub
+# 🌊 RivAI Nexus: The River Intelligence Hub
+
 
 ## 🚀 Overview
 
